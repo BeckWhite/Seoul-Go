@@ -1,4 +1,4 @@
 # Seoul-Go
 cooperation with MK , SK
-we make apps!
+we make apps! :coffee
 so happy!
